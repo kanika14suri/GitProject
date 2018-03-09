@@ -1,1 +1,5 @@
+
 this is a new developer file. something changed in local.
+
+this is a new developer file
+something changed in remote
